@@ -106,15 +106,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\60.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\kilo.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\desu.wav" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\kile.background.png" />
   </ItemGroup>
   <ItemGroup>

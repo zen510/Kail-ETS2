@@ -101,10 +101,10 @@ namespace Kile
             string URL = "http://"+IP+":25555/api/ets2/telemetry";
             string json = null;
             WebClient client = new WebClient();
+            client.Encoding = System.Text.Encoding.UTF8;
             try
             {
-                client.Encoding = System.Text.Encoding.UTF8;
-              json = client.DownloadString(URL);
+                json = client.DownloadString(URL);
             }
             catch (System.Net.WebException)
             {
