@@ -1,7 +1,6 @@
 C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.exe.config
 C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.exe
 C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.pdb
-C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csprojAssemblyReference.cache
 C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.Form1.resources
 C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.Properties.Resources.resources
 C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csproj.GenerateResource.cache
