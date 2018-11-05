@@ -1,0 +1,15 @@
+C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.exe.config
+C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.exe
+C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Kile.pdb
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csprojAssemblyReference.cache
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.Form1.resources
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.Properties.Resources.resources
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csproj.GenerateResource.cache
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csproj.CoreCompileInputs.cache
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.exe
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.pdb
+C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zen\source\repos\Kile\Kile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.csproj.CopyComplete
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.InformationDisplay.resources
+C:\Users\zen\source\repos\Kile\Kile\obj\Debug\Kile.SettingDisplay.resources
